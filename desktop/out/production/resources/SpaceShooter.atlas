@@ -1,0 +1,83 @@
+
+SpaceShooter.png
+size: 8192, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Starscape00
+  rotate: false
+  xy: 2160, 119
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Starscape01
+  rotate: false
+  xy: 0, 119
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Starscape02
+  rotate: false
+  xy: 3240, 119
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+Starscape03
+  rotate: false
+  xy: 1080, 119
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+darkPurpleStarscape
+  rotate: false
+  xy: 4320, 1783
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+enemyBlack1
+  rotate: false
+  xy: 4576, 1955
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+laserBlue01
+  rotate: false
+  xy: 4320, 1621
+  size: 9, 54
+  orig: 9, 54
+  offset: 0, 0
+  index: -1
+laserRed03
+  rotate: false
+  xy: 4453, 1746
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+playerShip1_orange
+  rotate: false
+  xy: 143, 44
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+shield1
+  rotate: false
+  xy: 4320, 1675
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+shield2
+  rotate: false
+  xy: 0, 0
+  size: 143, 119
+  orig: 143, 119
+  offset: 0, 0
+  index: -1
